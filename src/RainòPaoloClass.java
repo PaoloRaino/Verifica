@@ -1,9 +1,10 @@
 /**
- * versione 1:corretta
+ * versione 2:GitHub
  * @author Paolo
  * <html><h1>Classe per il calcolo del fattoriale</h1>
- * <S>Classe 4ai</S>
- * <c>04/05/2022</c>
+ * <b>Rainò Paolo</b>
+ * <U>Classe 4ai</U>
+ * <i>04/05/2022</i>
  * </html>
  */
 public class RainòPaoloClass {
