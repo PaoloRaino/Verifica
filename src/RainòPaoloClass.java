@@ -1,5 +1,5 @@
 /**
- * versione 0:errata
+ * versione 1:corretta
  * @author Paolo
  * <html><h1>Classe per il calcolo del fattoriale</h1>
  * <S>Classe 4ai</S>
@@ -22,7 +22,7 @@ public class RainòPaoloClass {
 		fatt =1;
 		for(i=1; i<=n; i++)
 		{
-			fatt=fatt+1;
+			fatt=fatt*i;// l'errore era che il programma doveva moltiplicare per "i" e non sommare per "i";
 		}
 		return fatt;
 	}
